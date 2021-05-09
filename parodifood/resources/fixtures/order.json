@@ -1,0 +1,24 @@
+{
+    "restaurant": "DEBUGER KING",
+    "description": "40 anos se especializando em trash food.",
+    "products":[
+        {
+            "name": "Woopper Burger"
+        },
+
+        {
+            "name": "Batatas Fritas"
+        },
+        {
+            "name": "Refrigerante"
+        }
+    ],
+    "total":"28,50",
+    "customer":{
+        "name": "Mariana Silva",
+        "email": "mariana@gmail.com",
+        "address": "Rua dos Bugs",
+        "number": "01"
+    },
+    "payment": "Dinheiro"
+}
